@@ -5,6 +5,7 @@ public class Student {
     // comment added at 1:21 PM
     private String sId;
     private String sName;
+    private String address;
 
     public Student(String sId, String sName) {
         this.sId = sId;
