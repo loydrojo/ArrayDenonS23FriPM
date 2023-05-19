@@ -7,7 +7,6 @@ import java.util.Scanner;
 public class ArraysDemoS23FriPM {
 
     public static void main(String[] args) {
-        System.out.println("This is a Word  Text and Reverse Text");
         System.out.println("Enter a word");
         Scanner input = new Scanner(System.in);
         
